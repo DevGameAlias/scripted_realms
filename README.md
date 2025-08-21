@@ -1,2 +1,2 @@
 # scripted_realms
-webpage tempalte
+webpage template
